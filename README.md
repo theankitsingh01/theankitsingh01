@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @theankitsingh01
+- 👋 Hi, I’m Ankit Singh
 - 👀 I’m interested in full stack development
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
