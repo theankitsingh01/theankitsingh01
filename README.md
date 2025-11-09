@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me at @theankitsingh01
 - 😄 Pronouns: HE/HIM
-- ⚡ Fun fact: Aaj maine khati toffi khayi hai !!
 
 <!---
 theankitsingh01/theankitsingh01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
